@@ -1,2 +1,2 @@
 # Roman-Numeral-Calculator
-An addition calculator that adds Roman Numerals
+A python addition calculator that adds Roman Numerals
